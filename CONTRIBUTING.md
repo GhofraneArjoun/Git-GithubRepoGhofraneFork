@@ -1,7 +1,11 @@
 # Guidelines for Contributions
+
+
 Thank you for your interest in contributing to our project! We appreciate your support and welcome your contributions. To ensure a smooth collaboration, please adhere to the following guidelines:
 
 ## How to Contribute
+
+
 1. Fork the repository and create a new branch for your changes.
 2. Make your modifications, additions, or bug fixes in your branch.
 3. Test your changes thoroughly to ensure they work as intended.
